@@ -11,4 +11,5 @@
 9. git checkout master  para volver a la rama master
 10. git merge rama-heroes  para unir esa rama a la master
 11. git branch -d rama-heroes  para eliminar la rama rama-heroes
-12. git push
+12. git push  para aplicar los cambios al repositorio remoto ( GitHub)
+13. git commit -am  para evitar escribir siempre add y commit
