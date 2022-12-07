@@ -7,4 +7,5 @@
 5- git checkout -- .  para regresar al ultimo commit
 6- git log  muestra un listado de los commits
 7- git commit --amend  para arreglar el mensaje de un commit (letra I para cambiar el mensaje) (ESC :wq! para salir)
-8- git checkout -b rama-heroes
+8- git checkout -b rama-heroes  para crear una nueva rama (git branch para ver en que rama estoy trabajando)
+9- git checkout master
